@@ -1,0 +1,10 @@
+#cajaBuscar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    height: 56px;
+    background-color: var(--rosa-claro);
+}
